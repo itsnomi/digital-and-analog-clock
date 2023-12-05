@@ -1,0 +1,18 @@
+.digital-clock {
+    /* border: 2px solid #333; */
+    padding: 20px;
+    /* border-radius: 10px; */
+    background-color: #e7e1e1;
+}
+.d-clock{
+    background-color: #0a0a0a;
+    width: 10vw;
+    display: block;
+    margin-inline: auto;
+    color: #e7e1e1;
+}
+
+.time {
+    font-size: 2em;
+    margin-top: 10px;
+}
